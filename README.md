@@ -7,5 +7,5 @@ This is a simple iPhone-like calculator built as a learning exercise to get fami
 - JavaScript
 
 ## Live demo 🔗
-Try the calculator:
+Try the calculator here:
 https://elorenzofreire.github.io/simple-calculator/
